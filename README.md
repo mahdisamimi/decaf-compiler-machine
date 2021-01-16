@@ -2,4 +2,4 @@
 Decaf Language Machine Using Python
 
 Usage:
-  python3 declex.py <INPUT FILE>
+  python3 declex.py 'INPUT FILE'
